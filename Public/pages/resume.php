@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="author" content="Leslie Archibald">
+        <meta name="keywords" content="resume, computer science graduate">
+        <meta charset="UTF-8">
+
+    
+
+    </head>
+    <body>
+        <div id="navbar">
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="resume.php">Resume</a></li>
+                <li><a href="portfolio.php">Portfolio</a></li>
+            </ul>
+        </div>
+        <div id="mainbody">
+            <div id="workexperience"></div>
+            <div id="education"></div>
+            <div id="softskills"></div>
+            <div id="hardskills"></div>
+            <div id="technologyexperience"></div>
+        </div>
+
+    </body>
+</html>
