@@ -18,10 +18,11 @@
             </ul>
         </div>
         <div id="mainbody">
-            
-
-
-
+            <div id="cardGrid" class="flexVertical">
+                <div id="row1" class="flexHorizontal"></div>
+                <div id="row2" class="flexHorizontal"></div>
+                <div id="row3" class="flexHorizontal"></div>
+            </div>
         </div>
 
     </body>

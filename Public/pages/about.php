@@ -17,11 +17,9 @@
                 <li><a href="portfolio.php">Portfolio</a></li>
             </ul>
         </div>
-        <div id="mainbody">
-            
-
-
-
+        <div id="mainbody" class="flexVertical">
+            <div class="flexItem" id="aboutPhoto"></div>
+            <div class="flexItem" id="aboutInfo"></div>
         </div>
 
     </body>

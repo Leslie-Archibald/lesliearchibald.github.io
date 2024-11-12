@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta name="author" content="Leslie Archibald">
-        <meta name="keywords" content="resume, computer science graduate">
+        <meta name="keywords" content="resume, computer science graduate, cv, curriculum vitae, bachelors degree, university at buffalo, suny">
         <meta charset="UTF-8">
 
     
@@ -19,7 +19,7 @@
         </div>
         <div id="mainbody">
             
-
+    
 
 
         </div>

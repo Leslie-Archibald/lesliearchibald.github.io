@@ -17,12 +17,15 @@
                 <li><a href="portfolio.php">Portfolio</a></li>
             </ul>
         </div>
-        <div id="mainbody">
-            <div id="workexperience"></div>
-            <div id="education"></div>
-            <div id="softskills"></div>
-            <div id="hardskills"></div>
-            <div id="technologyexperience"></div>
+        <div id="mainBody">
+            <div id="workExperience"></div>   
+                <div id="ReidPetrol"></div>
+                <div id="Adecco"></div>
+                <div id="OfficeMax"></div>
+            <div id="classExperience"></div>
+            <div id="skills"></div>
+
+        </div>
         </div>
 
     </body>
