@@ -23,6 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
+# altered files based on packages installed
 *storybook.log
 package-lock.json
 package.json
